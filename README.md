@@ -1,4 +1,4 @@
-# Data Generator for MAchine Learning Projects
+# Data Generator for Machine Learning Projects
 A program to create your own dataset for Machine Learning Projects.
 
 Just run the main.py file. And follow the instructions on the screen.
